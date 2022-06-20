@@ -1,4 +1,4 @@
-# Saefty-Stock-webApp
+# Saefty-Stock Web App
 Progressive web app with React JS.
 
 This is part of my last year's project of secondary school, which comes along with Saefty-Stock Access control
